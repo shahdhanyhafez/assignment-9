@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+}
+img{
+    width:100%;
+    height:100vh;
+}
+body{
+    height:100vh;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.news-img {
+    position:relative;
+    cursor:pointer;
+}
+.layer-quote{
+    position: absolute;
+    right:5.5%;
+    bottom:37%;
+    background-color: #EEEAE6;
+    height:195px;
+    width:422px;
+}
+h1{
+    color:#404040;
+}
+#quote{
+    height:100px;
+    font-weight: 500;
+    
+}
